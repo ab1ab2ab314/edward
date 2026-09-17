@@ -18,6 +18,7 @@ You MUST maintain this file to track your work across messages. This is NON-NEGO
 </instructions>
 
 <changelog>
+- 2026-09-17: Updated browser tab title in `index.html` from `BCSP Digital Badge / Tamaya Petty` to `BCSP Digital Badge / Edward E French Sr`.
 - 2026-09-17: Updated certified date from "08/27/2026" to "09/16/2026" in `src/data/credentialContent.ts` and `src/sections/DesktopCredentialPage/components/CredentialDetails.tsx`, including recertification cycle start date.
 - 2026-09-11: Updated credential holder name from "Tamaya Fontae L Petty" to "Edward E French Sr" in `src/data/credentialContent.ts`.
 - 2026-09-11: Replaced image logos with bold uppercase black `BCSP` text and transparent background styling in `src/sections/DesktopCredentialPage/index.tsx` and `src/sections/MobileCredentialPage/components/MobileFooter.tsx`.
