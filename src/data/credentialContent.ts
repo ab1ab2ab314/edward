@@ -10,9 +10,9 @@ export const credentialContent = {
     title: "Construction Health and Safety Technician® (CHST®)",
     shortName: "CHST®",
     number: "CHST-24261",
-    certifiedSince: "08/27/2026",
+    certifiedSince: "09/16/2026",
     expires: "12/31/2026",
-    recertificationCycle: "08/27/2026 - 06/30/2032",
+    recertificationCycle: "09/16/2026 - 06/30/2032",
     accreditedBy: "ANSI National Accreditation Board (ANAB)",
     description:
       "Earned by individuals that demonstrate competency in health and safety activities devoted to the prevention of construction illnesses, injuries, and protecting workers.",

@@ -11,6 +11,8 @@ Keep entries sorted in DESC order (newest first) so recent knowledge stays in pr
 </instructions>
 
 <coder>
+## 2026-09-17
+- Updated certified date from `08/27/2026` to `09/16/2026` in `src/data/credentialContent.ts` and `src/sections/DesktopCredentialPage/components/CredentialDetails.tsx`, including recertification cycle start date parity.
 ## 2026-09-11
 - Updated credential holder name from `Tamaya Fontae L Petty` to `Edward E French Sr` in `src/data/credentialContent.ts`.
 - Replaced image-based BCSP logo render with bold uppercase black text `BCSP` in `src/sections/DesktopCredentialPage/index.tsx` and `src/sections/MobileCredentialPage/components/MobileFooter.tsx`.

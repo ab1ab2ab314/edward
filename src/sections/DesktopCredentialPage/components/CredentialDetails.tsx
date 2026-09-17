@@ -33,7 +33,7 @@ export const CredentialDetails = () => {
                 Certified Since
               </div>
               <div className="caret-transparent text-base leading-[normal] outline-[3px] no-underline md:text-lg md:leading-[15px]">
-                08/27/2026
+                09/16/2026
               </div>
             </td>
             <td className="caret-transparent min-w-0 outline-[3px] no-underline align-middle p-0 md:min-w-2.5"></td>
@@ -94,7 +94,7 @@ export const CredentialDetails = () => {
                 RECERTIFICATION CYCLE
               </div>
               <div className="caret-transparent text-base leading-[normal] outline-[3px] no-underline md:text-lg md:leading-[15px]">
-                08/27/2026 - 06/30/2032
+                09/16/2026 - 06/30/2032
               </div>
             </td>
           </tr>
